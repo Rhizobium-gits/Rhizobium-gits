@@ -7,10 +7,12 @@ Born in 2006, He started research activities around 2018. His research interests
 [![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com)
 <space>
 
+
 🏆 **Awards and Honors**
 
-- U22 Programming Content METI Minister’s award.
-- Sōkan no Susume Scholarship, Keio University.
+- TOP100 -DOWNLOADED ARTICLES- 2024 (Scientific Reports・Nature Portfolio)
+- Excellence Award at the Kyoto University Space Symposium (Kyoto University Space Unit, 16th Annual Meeting)
+- ​Silver Award at Japanese Biochemical Society (JBS) (95th Annual Meeting)
 
 📈 **Stats**
 
