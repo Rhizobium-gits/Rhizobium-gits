@@ -31,7 +31,11 @@ Born in 2006, He started research activities around 2018. His research interests
 
 📈 **Stats**
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="Anurag's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="49%" />
-</div>
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/rhizobium_st?style=social)](https://x.com/rhizobium_st)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits" />
+</p>  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/Rhizobium-gits/)
