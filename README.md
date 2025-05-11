@@ -6,3 +6,15 @@ Born in 2006, He started research activities around 2018. His research interests
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
 [![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com)
 <space>
+
+🏆 **Awards and Honors**
+
+- U22 Programming Content METI Minister’s award.
+- Sōkan no Susume Scholarship, Keio University.
+
+📈 **Stats**
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="Anurag's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="37%" />
+</div>
