@@ -4,8 +4,8 @@ Born in 2006, He started research activities around 2018. His research interests
 <space>
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
-[![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com)
-<space>
+[![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com) ・
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/rhizobium_st?style=social)](https://x.com/rhizobium_st)  
 
 <hr style="border: none; height: 1px; background-color: #ccc;">
 
@@ -30,8 +30,6 @@ Born in 2006, He started research activities around 2018. His research interests
 
 
 📈 **Stats**
-
-[![X (Twitter) Follow](https://img.shields.io/twitter/follow/rhizobium_st?style=social)](https://x.com/rhizobium_st)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&show_icons=true" />
