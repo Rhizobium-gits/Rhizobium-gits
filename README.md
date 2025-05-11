@@ -16,12 +16,13 @@ Born in 2006, He started research activities around 2018. His research interests
 
 <strong>2023: </strong>[![bio Rxiv](https://img.shields.io/badge/筆頭論文-bioRxiv-white)](https://doi.org/10.1101/2023.11.02.565408)​Survivability and Life Support in Sealed Mini-Ecosystems with Simulated Planetary Soils.
 
+🪺 **International Conference**
+
+<strong>2023: </strong> 7th MVA Global Workshop & Symposium (MVA2023).
 
 🏆 **Awards and Honors**
 
 - TOP100 -DOWNLOADED ARTICLES- 2024 (Scientific Reports・Nature Portfolio)
-- Excellence Award at the Kyoto University Space Symposium (Kyoto University Space Unit, 16th Annual Meeting)
-- ​Silver Award at Japanese Biochemical Society (JBS) (95th Annual Meeting)
 
 <space>
 
