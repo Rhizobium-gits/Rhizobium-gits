@@ -7,12 +7,24 @@ Born in 2006, He started research activities around 2018. His research interests
 [![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com)
 <space>
 
+<hr style="border: none; height: 1px; background-color: #ccc;">
+
+📃 **Publication**
+
+<strong>2024: </strong>[![Scientific　Reports](https://img.shields.io/badge/筆頭論文-SciRep-orange)](https://doi.org/10.1038/s41598-024-75328-x)Survivability and life support in sealed mini-ecosystems with simulated planetary soils.
+
+
+<strong>2023: </strong>[![bio Rxiv](https://img.shields.io/badge/筆頭論文-bioRxiv-white)](https://doi.org/10.1101/2023.11.02.565408)​Survivability and Life Support in Sealed Mini-Ecosystems with Simulated Planetary Soils.
+
 
 🏆 **Awards and Honors**
 
 - TOP100 -DOWNLOADED ARTICLES- 2024 (Scientific Reports・Nature Portfolio)
 - Excellence Award at the Kyoto University Space Symposium (Kyoto University Space Unit, 16th Annual Meeting)
 - ​Silver Award at Japanese Biochemical Society (JBS) (95th Annual Meeting)
+
+<space>
+
 
 📈 **Stats**
 
