@@ -29,7 +29,7 @@ Born in 2006, He started research activities around 2018. His research interests
 
 
 
-📈 **Stats**
+<h3>📈 Stats</h3>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&show_icons=true" />
