@@ -6,8 +6,3 @@ Born in 2006, He started research activities around 2018. His research interests
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
 [![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com)
 <space>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhizobium-gits&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhizobium-gits&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhizobium-gits&theme=default)
