@@ -19,7 +19,7 @@ Born in 2006, He started research activities around 2018. His research interests
  
 <h3>🪺 International Conference</h3>
 
-<strong>2023: </strong> 7th MVA Global Workshop & Symposium (MVA2023).
+<strong>2023: </strong> 7th Moon Village Association Global Workshop & Symposium (MVA2023).
 
 
  
