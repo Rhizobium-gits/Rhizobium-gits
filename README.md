@@ -4,7 +4,7 @@ Born in 2006, He started research activities around 2018. His research interests
 <space>
 
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/rhizobium_st?style=social)](https://x.com/rhizobium_st) ・
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Scholar-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
 [![Website](https://img.shields.io/badge/Weebly%20-Website-Pink)](https://tsubasato.weebly.com)  
 
 <hr style="border: none; height: 1px; background-color: #ccc;">
