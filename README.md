@@ -26,14 +26,3 @@ Born in 2006, He started research activities around 2018. His research interests
 <h3>🏆 Awards and Honors</h3>
 
 - TOP100 -DOWNLOADED ARTICLES- 2024 (Scientific Reports・Nature Portfolio)
-
-
-
-<h3>📈 Stats</h3>
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits" />
-</p>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/Rhizobium-gits/)
