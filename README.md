@@ -26,3 +26,5 @@ Born in 2006, He started research activities around 2018. His research interests
 <h3>🏆 Awards and Honors</h3>
 
 - TOP100 -DOWNLOADED ARTICLES- 2024 (Scientific Reports・Nature Portfolio)
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact" />
