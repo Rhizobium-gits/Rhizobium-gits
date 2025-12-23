@@ -5,7 +5,7 @@ Born in 2006, He started research activities around 2018. His research interests
 
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/rhizobium_st?style=social)](https://x.com/rhizobium_st) ・
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Scholar-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
-[![Website](https://img.shields.io/badge/%20Website-tuba.times-pink)](https://tuba-times.vercel.app)   
+[![Website](https://img.shields.io/badge/%20tuba.times-Website-pink)](https://tuba-times.vercel.app)   
 
 <hr style="border: none; height: 1px; background-color: #ccc;">
 
