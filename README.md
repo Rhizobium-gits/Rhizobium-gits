@@ -25,4 +25,7 @@ Born in 2006, He started research activities around 2018. His research interests
 
 - TOP100 -DOWNLOADED ARTICLES- 2024 (Scientific Reports・Nature Portfolio)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact" />
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="Anurag's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="37%" />
+</div>
