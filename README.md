@@ -9,7 +9,9 @@ Born in 2006, He started research activities around 2018. His research interests
 <hr style="border: none; height: 1px; background-color: #ccc;">
 
 <h3>📃 Publication</h3> 
- 
+
+ <strong>2025: </strong>[![SocArXiv](https://img.shields.io/badge/プレプリント-SocArXiv-white)](
+https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitory Culture Formation: A Quantitative Analysis Of How Gender Composition And Spatial Design Influence Residents' Cooperative Attitudes In University Housing.
 <strong>2024: </strong>[![Scientific　Reports](https://img.shields.io/badge/筆頭論文-SciRep-orange)](https://doi.org/10.1038/s41598-024-75328-x) Survivability and life support in sealed mini-ecosystems with simulated planetary soils.
 　
 
