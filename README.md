@@ -46,9 +46,8 @@
 
 <div align="center">
 
-## Tsubasa Sato
-
-<a href="https://tsubatimescom.vercel.app">tsuba.times</a>
+# 𝑇𝑠𝑢𝑏𝑎𝑠𝑎 𝑆𝑎𝑡𝑜
+#### <a href="https://tsubatimescom.vercel.app">𝑡𝑠𝑢𝑏𝑎.𝑡𝑖𝑚𝑒𝑠</a>
 
 <br>
 
