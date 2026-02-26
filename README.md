@@ -30,8 +30,7 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&hide_border=true&langs_count=10&hide=html,css&bg_color=ffffff&title_color=000000&text_color=333333&border_radius=8)
 
-
-## 🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 
 *These are tools I've had a go at, not all of which I've mastered yet.*
 
