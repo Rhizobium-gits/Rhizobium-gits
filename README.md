@@ -17,34 +17,34 @@ FIELDS AND PERIODS
 <samp>
 
 **Originally:**
-.......Nature to Tech, Tech to Nature.......
+Nature to Tech, Tech to Nature.......
 
 **Provenance and Period:**
-.......Okayama, 2006 — Keio SFC, 2024.......
+Okayama, 2006 — Keio SFC, 2024.......
 
 **Affiliation:**
-.......SFC, Keio Univ / IAB / MRI, IST / ADvance Lab.......
+SFC, Keio Univ / IAB / MRI, IST / ADvance Lab.......
 
 **Research Description:**
-.......Gut microbiota / Earth's ecosystem / Lunar concrete.......
+Gut microbiota / Earth's ecosystem / Lunar concrete.......
 
 **Style Description:**
-.......Bridging life sciences and computation.......
+Bridging life sciences and computation.......
 
 </samp>
 
-<div align="center"><samp>・・・・・・・・・・・・・・・・・・・・・</samp></div>
+---
 
 <samp>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&weight=700&size=13&duration=100&pause=10000&color=222222&background=FFFFFF00&vCenter=true&repeat=false&width=120&height=20&lines=Publication%3A" alt="Publication" />
+**Publication:**
 2025 — Dormitory Culture Formation — [preprint](https://doi.org/10.31235/osf.io/t3nbf_v1)
 2024 — Sealed mini-ecosystems — [Sci Rep](https://doi.org/10.1038/s41598-024-75328-x) · TOP 100
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&weight=700&size=13&duration=100&pause=10000&color=222222&background=FFFFFF00&vCenter=true&repeat=false&width=120&height=20&lines=Conference%3A" alt="Conference" />
+**Conference:**
 2023 — Moon Village Association Global Workshop
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&weight=700&size=13&duration=100&pause=10000&color=222222&background=FFFFFF00&vCenter=true&repeat=false&width=80&height=20&lines=Stack%3A" alt="Stack" />
+**Stack:**
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="24" height="24" />&nbsp;<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/commonlisp.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="24" height="24" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="24" height="24" />&nbsp;<img src="https://raw.githubusercontent.com/qiime2/logos/master/vector/qiime2-square.svg" width="24" height="24" />
@@ -54,20 +54,14 @@ FIELDS AND PERIODS
 
 </samp>
 
-<div align="center"><samp>・・・・・・・・・・・・・・・・・・・・・</samp></div>
+---
 
 <div align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=20&duration=5000&pause=3000&color=222222&background=FFFFFF00&center=true&vCenter=true&width=250&lines=Tsubasa+Sato" alt="Tsubasa Sato" />
-
 <samp>
+
+Tsubasa Sato
 
 [tsuba.times](https://tsubatimescom.vercel.app)
 
 </samp>
-
-<br>
-
 </div>
