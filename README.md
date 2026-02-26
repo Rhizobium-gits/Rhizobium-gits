@@ -34,32 +34,12 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
 
 *These are tools I've had a go at, not all of which I've mastered yet.*
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Common Lisp](https://img.shields.io/badge/-Common_Lisp-3E6BBE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjQiIHk9IjIwIiBmb250LXNpemU9IjI0IiBmb250LWZhbWlseT0ic2VyaWYiPsO7PC90ZXh0Pjwvc3ZnPg==&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![phyloseq](https://img.shields.io/badge/-phyloseq-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![QIIME 2](https://img.shields.io/badge/-QIIME_2-24B064?style=flat-square)
-![Gnuplot](https://img.shields.io/badge/-Gnuplot-EE3263?style=flat-square)
-![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,bash,latex,react,nextjs,docker,git,github,linux,emacs&perline=15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+  <img src="https://cdn.simpleicons.org/commonlisp/white" width="48" height="48" alt="Common Lisp" />
+  <img src="https://cdn.simpleicons.org/ollama/white" width="48" height="48" alt="Ollama" />
+</p>
 
  
