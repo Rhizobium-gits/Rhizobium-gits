@@ -1,7 +1,9 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hello%2C+I'm+Tsubasato" alt="Typing SVG" />
+
 # Nature to Tech, Tech to Nature. (2024)
 Born in 2006, He started research activities around 2018. His research interests include reproduction of Earth's ecosystem, lunar concrete, gut microbiota and human health, with the aim of creating a space migratory society. He is a first-year student at the <strong>Faculty of Environment and Information Studies, SFC, Keio University</strong>. He is a member of the <strong>Intestinal Microbiota Group, Institute for Advanced Biosciences, Intestinal microbiota group</strong>. He is a Technical Assistant of <strong>Department of Computational and Systems Biology, Medical Research Institute, Institute of Science Tokyo</strong>. I have been appointed Deputy Director and Leader of Space Department at <strong>ADvance Lab</strong>. 
 <space>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hello%2C+I'm+Koyo" alt="Typing SVG" />
+
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/rhizobium_st?style=social)](https://x.com/rhizobium_st) ・
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Scholar-blue)](https://scholar.google.co.jp/citations?user=13x6x4sAAAAJ&hl=ja) ・
 [![Website](https://img.shields.io/badge/%20tsuba.times-Website-pink)](https://tsubatimescom.vercel.app)   
