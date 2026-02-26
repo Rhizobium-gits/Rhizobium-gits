@@ -40,6 +40,7 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/commonlisp.svg" width="48" height="48" alt="Common Lisp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
@@ -47,7 +48,6 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/commonlisp.svg" width="48" height="48" alt="Common Lisp" />
 </p>
 
 ### Frameworks & Libraries
@@ -67,6 +67,7 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="48" height="48" alt="Emacs" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="48" height="48" alt="Ollama" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="48" height="48" alt="Gnuplot" />
+  <img src="https://raw.githubusercontent.com/qiime2/logos/master/vector/qiime2-square.svg" width="48" height="48" alt="QIIME 2" />
 </p>
 
 
