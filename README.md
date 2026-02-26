@@ -47,7 +47,7 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
-  <img src="https://cdn.simpleicons.org/commonlisp/white" width="48" height="48" alt="Common Lisp" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/commonlisp.svg" width="48" height="48" alt="Common Lisp" />
 </p>
 
 ### Frameworks & Libraries
