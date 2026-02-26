@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hello%2C+I'm+Tsubasato" alt="Typing SVG" />
+
 # Nature to Tech, Tech to Nature. (2024)
 Born in 2006, He started research activities around 2018. His research interests include reproduction of Earth's ecosystem, lunar concrete, gut microbiota and human health, with the aim of creating a space migratory society. He is a first-year student at the <strong>Faculty of Environment and Information Studies, SFC, Keio University</strong>. He is a member of the <strong>Intestinal Microbiota Group, Institute for Advanced Biosciences, Intestinal microbiota group</strong>. He is a Technical Assistant of <strong>Department of Computational and Systems Biology, Medical Research Institute, Institute of Science Tokyo</strong>. I have been appointed Deputy Director and Leader of Space Department at <strong>ADvance Lab</strong>. 
 <space>
@@ -44,6 +45,7 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
   <img src="https://cdn.simpleicons.org/commonlisp/white" width="48" height="48" alt="Common Lisp" />
 </p>
@@ -64,7 +66,6 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="48" height="48" alt="Emacs" />
   <img src="https://cdn.simpleicons.org/ollama/white" width="48" height="48" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/gnu/white" width="48" height="48" alt="Gnuplot" />
 </p>
 
-
- 
