@@ -65,8 +65,8 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="48" height="48" alt="Emacs" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Gnuplot-EE3263?style=for-the-badge&logo=gnu&logoColor=white" alt="Gnuplot" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="48" height="48" alt="Ollama" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="48" height="48" alt="Gnuplot" />
 </p>
 
 
