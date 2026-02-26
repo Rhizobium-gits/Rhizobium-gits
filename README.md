@@ -42,7 +42,7 @@ https://doi.org/10.31235/osf.io/t3nbf_v1) Residential Configuration And Dormitor
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Common Lisp](https://img.shields.io/badge/-Common_Lisp-3E6BBE?style=flat-square&logo=lisp&logoColor=white)
+![Common Lisp](https://img.shields.io/badge/-Common_Lisp-3E6BBE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjQiIHk9IjIwIiBmb250LXNpemU9IjI0IiBmb250LWZhbWlseT0ic2VyaWYiPsO7PC90ZXh0Pjwvc3ZnPg==&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### Frameworks & Libraries
