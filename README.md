@@ -10,7 +10,7 @@
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
-<h3><b>Provenance and Period:</b><br><samp>Okayama, 2006 — Keio SFC, 2024</samp></h3>
+<h3><b>Provenance and Period:</b><br><samp>Okayama, 2006 — Keio SFC, 2025</samp></h3>
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
