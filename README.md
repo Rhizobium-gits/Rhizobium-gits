@@ -18,7 +18,7 @@
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
-<h3><b>Research Description:</b><br><samp>Gut microbiota / Earth's ecosystem / Lunar concrete</samp></h3>
+<h3><b>Research Description:</b><br><samp>Gut microbiota / Earth's ecosystem / Space Biology</samp></h3>
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
