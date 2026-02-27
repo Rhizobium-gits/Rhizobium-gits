@@ -14,7 +14,7 @@
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
-<h3><b>Affiliation:</b><br><samp>SFC, Keio Univ / IAB / MRI, IST / ADvance Lab</samp></h3>
+<h3><b>Affiliation:</b><br><samp>IAB, SFC, Keio University / MRI, Institute of Science Tokyo / ADvance Lab</samp></h3>
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
