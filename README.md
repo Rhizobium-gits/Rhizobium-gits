@@ -1,54 +1,56 @@
-<div align="center">
-<br>
+### Rhizobium-gits 🐈
 
-# PROFILE
+**Bio:** Undergraduate at the Faculty of Environmental Information, [Keio University (SFC)](https://www.sfc.keio.ac.jp/). Research Student at the Intestinal Microbiota Group, [Institute for Advanced Biosciences (IAB), Keio University](https://www.iab.keio.ac.jp/). Technical Assistant at the Division of Biological Data Science, Department of Computational and Systems Biology, [Institute of Science Tokyo](https://www.isct.ac.jp/). Deputy Director & Head of Space Division at [ADvance Lab](https://and-and-and.jp/).
 
-<h4>REPRODUCTION OF FAMILIAR SKILLS AND MOMENTS OF VARYING FIELDS AND PERIODS</h4>
-</div>
+> *Nature to Tech, Tech to Nature.*
 
-<h3><b>Originally:</b><br><samp>Nature to Tech, Tech to Nature.</samp></h3>
+**Research**: Space Biology, Sealed Ecology, Computational Systems Biology — designing sealed ecosystems to probe plant–microbe interactions in simulated extraterrestrial soils and bridging life sciences with computation.
 
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+**Stack**:
 
-<h3><b>Provenance and Period:</b><br><samp>Okayama, 2006 — Keio SFC, 2025</samp></h3>
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<h3><b>Affiliation:</b><br><samp>IAB, SFC, Keio University / MRI, Institute of Science Tokyo / ADvance Lab</samp></h3>
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<h3><b>Research Description:</b><br><samp>Gut microbiota / Earth's ecosystem / Space Biology</samp></h3>
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<h3><b>Style Description:</b><br><samp>Bridging life sciences and computation</samp></h3>
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<h3><b>Publication:</b><br><samp>2025 — Dormitory Culture Formation — <a href="https://doi.org/10.31235/osf.io/t3nbf_v1">preprint</a><br>2024 — Sealed mini-ecosystems — <a href="https://doi.org/10.1038/s41598-024-75328-x">Sci Rep</a> · TOP 100</samp></h3>
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<h3><b>Conference:</b><br><samp>2023 — Moon Village Association Global Workshop</samp></h3>
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<h3><b>Stack:</b></h3>
 <p>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/r.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/commonlisp.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnubash.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powershell.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/latex.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/streamlit.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnuemacs.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="28" height="28" />&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu.svg" width="28" height="28" />&nbsp;<img src="https://raw.githubusercontent.com/qiime2/logos/master/vector/qiime2-square.svg" width="28" height="28" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Common%20Lisp-000000?logo=commonlisp&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+<img src="https://img.shields.io/badge/-Emacs-7F5AB6?logo=gnuemacs&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-QIIME2-orange?style=flat-square" />
 </p>
 
+**Projects**:
+
+- [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
+
+- [**Sealed Mini-Ecosystems**](https://doi.org/10.1038/s41598-024-77049-1) — Designed closed ecological systems ("Ecosphere" / "Biosealed") to test plant–microbe symbioses in lunar regolith, Ryugu asteroid, and slag simulants. Published in ***Scientific Reports*** (2024), **Top 8 Downloaded in Physics** (Nature Portfolio).
+
+- [**dormitory-culture-analysis**](https://github.com/Rhizobium-gits/dormitory-culture-analysis) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
+
+- [**LGIMpreana**](https://github.com/Rhizobium-gits/LGIMpreana) — Effect-size quantification toolkit for microbial ecology, built in Common Lisp.
+
+- [**HGoatAnalysis**](https://github.com/Rhizobium-gits/HGoatAnalysis) — Assessing biodiversity shifts from goat introduction around SFC via shotgun metagenomics (with Keio IAB, 2025–present).
+
+**Awards**
+
+- Top 100 Downloaded Articles — Physics Top 8 of 2024 (*Scientific Reports*, Nature Portfolio)
+- Encouragement Award, The 64th Annual Meeting of the Japanese Society of Plant Physiologists (2023)
+- Excellence Award, 16th Annual Symposium, Kyoto University Unit of Synergetic Studies for Space (2022)
+- Silver Award, The 95th Annual Meeting of the Japanese Biochemical Society (2022)
+
+**Contact**: [okay.bio.sato@gmail.com](mailto:okay.bio.sato@gmail.com) | [tsubatimescom.vercel.app](https://tsubatimescom.vercel.app) | [@Rhizobium_st](https://x.com/Rhizobium_st)
+
+**Stats**
+
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="Anurag's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="37%" />
-</div>
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&weight=400&size=32&duration=1&pause=99999&color=222222&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=300&height=50&lines=Tsubasa+Sato" alt="Tsubasa Sato" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&weight=400&size=16&duration=1&pause=99999&color=555555&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=150&height=25&lines=tsuba.times" alt="tsuba.times" />
-
 </div>
