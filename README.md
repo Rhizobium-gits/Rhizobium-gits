@@ -30,6 +30,7 @@
 **Projects**:
 
 - [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
+<img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="300">
 
 - [**Sealed Mini-Ecosystems**](https://doi.org/10.1038/s41598-024-77049-1) — Designed closed ecological systems ("Ecosphere" / "Biosealed") to test plant–microbe symbioses in lunar regolith, Ryugu asteroid, and slag simulants. Published in ***Scientific Reports*** (2024), **Top 8 Downloaded in Physics** (Nature Portfolio).
 
