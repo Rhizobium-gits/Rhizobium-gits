@@ -55,4 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="37%" />
 </div>
 
-![demo](https://raw.github.com/Rhizobium-gits/Rhizobium-gits/blob/main/seq2pipe.gif)
+![demo](https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif)
