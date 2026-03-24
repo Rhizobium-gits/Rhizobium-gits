@@ -29,13 +29,10 @@
 
 **Projects**:
 - [**coming soon**](https://github.com/Rhizobium-gits)(2026) —　Genom Analysis
-<img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/source.gif" width="100">
-  
+
 - [**coming soon**](https://github.com/Rhizobium-gits)(2025-) — Cultivation System
-<img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/source.gif" width="100">
-  
+ 
 - [**coming soon**](https://github.com/Rhizobium-gits)(2025-) — Microbiology
-<img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/source.gif" width="100">
 
 - [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
 <img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="100">
