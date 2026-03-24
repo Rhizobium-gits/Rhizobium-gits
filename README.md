@@ -28,17 +28,18 @@
 </p>
 
 **Projects**:
+- [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026) — <img src="dependency.https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQ0dm0zbWx1ZmdwM2JucmUxbzdjNWJkcDhpdjF2cGZwZ3BncmUydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/oI2bjXsF9wK8nfWUoY/giphy.gif" width="100">
 
-- [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
+- [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
 <img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="100">
 
-- [**Sealed Mini-Ecosystems**](https://doi.org/10.1038/s41598-024-77049-1) — Designed closed ecological systems ("Ecosphere" / "Biosealed") to test plant–microbe symbioses in lunar regolith, Ryugu asteroid, and slag simulants. Published in ***Scientific Reports*** (2024), **Top 8 Downloaded in Physics** (Nature Portfolio).
+- [**Sealed Mini-Ecosystems**](https://doi.org/10.1038/s41598-024-77049-1)(2018-2024) — Designed closed ecological systems ("Ecosphere" / "Biosealed") to test plant–microbe symbioses in lunar regolith, Ryugu asteroid, and slag simulants. Published in ***Scientific Reports*** (2024), **Top 8 Downloaded in Physics** (Nature Portfolio).
 
-- [**dormitory-culture-analysis**](https://github.com/Rhizobium-gits/dormitory-culture-analysis) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
+- [**dormitory-culture-analysis**](2025-2026)(https://github.com/Rhizobium-gits/dormitory-culture-analysis) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
 
-- [**LGIMpreana**](https://github.com/Rhizobium-gits/LGIMpreana) — Effect-size quantification toolkit for microbial ecology, built in Common Lisp.
+- [**LGIMpreana**](https://github.com/Rhizobium-gits/LGIMpreana)(2025) — Effect-size quantification toolkit for microbial ecology, built in Common Lisp.
 
-- [**HGoatAnalysis**](https://github.com/Rhizobium-gits/HGoatAnalysis) — Assessing biodiversity shifts from goat introduction around SFC via shotgun metagenomics (with Keio IAB, 2025–present).
+- [**HGoatAnalysis**](https://github.com/Rhizobium-gits/HGoatAnalysis)(2025) — Assessing biodiversity shifts from goat introduction around SFC via shotgun metagenomics (with Keio IAB, 2025–present).
 
 **Awards**
 
