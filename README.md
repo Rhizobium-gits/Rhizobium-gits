@@ -60,4 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="37%" />
 </div>
 
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youkin06&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
+ 
 ![demo](https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/)
