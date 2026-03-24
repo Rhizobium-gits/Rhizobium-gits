@@ -28,7 +28,7 @@
 </p>
 
 **Projects**:
-- [**coming soon**](https://github.com/Rhizobium-gits)(2026) —　Genom Analysis
+- [**coming soon**](https://github.com/Rhizobium-gits)(2026) —　Genome Analysis
 
 - [**coming soon**](https://github.com/Rhizobium-gits)(2025-) — Cultivation System
  
