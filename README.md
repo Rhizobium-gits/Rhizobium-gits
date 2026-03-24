@@ -61,6 +61,6 @@
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ochyai&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=temps1101&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
  
 ![demo](https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/)
