@@ -37,11 +37,13 @@
 - [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
 <img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="100">
 
-- [**Sealed Mini-Ecosystems**](https://doi.org/10.1038/s41598-024-77049-1)(2018-2024) — Designed closed ecological systems ("Ecosphere" / "Biosealed") to test plant–microbe symbioses in lunar regolith, Ryugu asteroid, and slag simulants. Published in ***Scientific Reports*** (2024), **Top 8 Downloaded in Physics** (Nature Portfolio).
+- [**qiime-lab**](https://github.com/qiime-lab)(2025-) — How to use Qiime2? We describe the latest Qiime2 methods for beginners.
 
 - [**dormitory-culture-analysis**](2025-2026)(https://github.com/Rhizobium-gits/dormitory-culture-analysis) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
 
 - [**HGoatAnalysis**](https://github.com/Rhizobium-gits/HGoatAnalysis)(2025) — Assessing biodiversity shifts from goat introduction around SFC via shotgun metagenomics (with Keio IAB, 2025–present).
+
+- [**Sealed Mini-Ecosystems**](https://doi.org/10.1038/s41598-024-77049-1)(2018-2024) — Designed closed ecological systems ("Ecosphere" / "Biosealed") to test plant–microbe symbioses in lunar regolith, Ryugu asteroid, and slag simulants. Published in ***Scientific Reports*** (2024), **Top 8 Downloaded in Physics** (Nature Portfolio).
 
 **Awards**
 
