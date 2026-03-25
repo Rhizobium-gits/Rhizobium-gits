@@ -38,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="100">
 
 - [**qiime-lab**](https://github.com/qiime-lab)(2025-) — How to use Qiime2? We describe the latest Qiime2 methods for beginners.
- <img src="https://raw.githubusercontent.com/qiime-lab/.github/blob/main/qiimelab.png" width="100">
+ <img src="https://github.com/qiime-lab/.github/blob/main/qiimelab.png" width="100">
 
 - [**dormitory-culture-analysis**](2025-2026)(https://github.com/Rhizobium-gits/dormitory-culture-analysis) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
 
