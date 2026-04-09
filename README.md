@@ -34,6 +34,8 @@
  
 - [**coming soon**](https://github.com/Rhizobium-gits)(2025-) — Microbiology
 
+- [**github-complete-guide**](https://github.com/Rhizobium-gits/github-complete-guide)(2026) — How to use GitHub
+  
 - [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
 
 <img src="https://github.com/Rhizobium-gits/seq2pipe/blob/master/seq2pipe.png" width="100"> <img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="75">
