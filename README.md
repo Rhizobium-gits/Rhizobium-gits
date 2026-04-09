@@ -43,7 +43,7 @@
 - [**qiime-lab**](https://github.com/qiime-lab)(2026.2-) — How to use Qiime2? We describe the latest Qiime2 methods for beginners.
  <img src="https://github.com/qiime-lab/.github/blob/main/qiimelab.png" width="100">
 
-- [**dormitory-culture-analysis**](https://github.com/Rhizobium-gits/dormitory-culture-analysis)(2025-2026) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
+- [**dormitory-culture-analysis**](https://github.com/Rhizobium-gits/dormitory-culture-analysis)(2025.5-2026.1) — Quantitative analysis of how spatial configuration shapes cooperative culture in university housing, exploring implications for crew habitat design. ([SocArXiv Preprint, 2026](https://osf.io/preprints/socarxiv/t3nbf_v1))
 
 - [**HGoatAnalysis**](https://github.com/Rhizobium-gits/HGoatAnalysis)(2025) — Assessing biodiversity shifts from goat introduction around SFC via shotgun metagenomics (with Keio IAB, 2025–present).
 
