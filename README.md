@@ -13,8 +13,8 @@
 - [**qiime-lab**](https://github.com/qiime-lab)(2026.2-) — How to use Qiime2? We describe the latest Qiime2 methods for beginners.
  <img src="https://github.com/qiime-lab/.github/blob/main/qiimelab.png" width="100">
 
-**Awards**
-
+**Awards/Fellowships**
+- Nakatani RIES (Research stay at Georgia Institute of Technology)
 - Top 100 Downloaded Articles — Physics Top 8 of 2024 (*Scientific Reports*, Nature Portfolio)
 - Encouragement Award, The 64th Annual Meeting of the Japanese Society of Plant Physiologists (2023)
 - Excellence Award, 16th Annual Symposium, Kyoto University Unit of Synergetic Studies for Space (2022)
