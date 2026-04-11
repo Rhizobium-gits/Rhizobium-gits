@@ -22,6 +22,6 @@
 
 **Stats**
 
-![GitHub Stats](https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits&theme=github-light)
-![GitHub Stats](https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits&theme=noir)
+![GitHub Stats](https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits&v=4&theme=github-light)
+
 
