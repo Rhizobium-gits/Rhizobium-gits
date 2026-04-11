@@ -21,6 +21,8 @@
 **Contact**: [okay.bio.sato@gmail.com](mailto:okay.bio.sato@gmail.com) | [tsubatimescom.vercel.app](https://tsubatimescom.vercel.app) | [@Rhizobium_st](https://x.com/Rhizobium_st)
 
 **Stats**
+![GitHub Stats](https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits)
+
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img src="https://github-trophies-rho.vercel.app/api/trophies?username=Rhizobium-gits&v=2" alt="GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
