@@ -1,9 +1,5 @@
 ### Rhizobium-gits 🐈
-<p align="left">
-    <a href="http://x.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/Rhizobium_gits?label=Twitter&logo=twitter&style=flat" />
-  </a>
-</p>
+
 **Bio:** Undergraduate at the Faculty of Environmental Information, [Keio University (SFC)](https://www.sfc.keio.ac.jp/). Research Student at the Intestinal Microbiota Group, [Institute for Advanced Biosciences (IAB), Keio University](https://www.iab.keio.ac.jp/). Technical Assistant at the Division of Biological Data Science, Department of Computational and Systems Biology, [Institute of Science Tokyo](https://www.isct.ac.jp/). Director at [ADvance Lab](https://adlab.lne.st). *Nature to Tech, Tech to Nature.*
 
 **Research**: Space Biology, Sealed Ecology, Computational Systems Biology — designing sealed ecosystems to probe plant–microbe interactions in simulated extraterrestrial soils and bridging life sciences with computation.
@@ -25,7 +21,7 @@
 **Contact**: [okay.bio.sato@gmail.com](mailto:okay.bio.sato@gmail.com) | [tsubatimescom.vercel.app](https://tsubatimescom.vercel.app) | [@Rhizobium_st](https://x.com/Rhizobium_st)
 
 **Stats**
-
+https://github-profile-trophy.vercel.app/?username=Rhizobium_gits&row=2&column=3
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhizobium-gits&layout=compact&theme=graywhite" alt="Top Langs" width="37%" />
