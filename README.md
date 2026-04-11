@@ -1,7 +1,7 @@
 ### Rhizobium-gits 🐈
 <p align="left">
-  <a href="https://x.com/Rhizobium_st">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <a href="http://x.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follower/Rhizobium_gits?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Rhizobium_gits">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
