@@ -21,15 +21,9 @@
 **Contact**: [okay.bio.sato@gmail.com](mailto:okay.bio.sato@gmail.com) | [tsubatimescom.vercel.app](https://tsubatimescom.vercel.app) | [@Rhizobium_st](https://x.com/Rhizobium_st)
 
 **Stats**
-<!-- ダークテーマ -->
-![Trophies](https://github.com/Rhizobium-gits/github-trophies/api/trophies?username=Rhizobium-gits&theme=dark)
+![GitHub Trophies](https://github-trophies-rho.vercel.app/api/trophies?username=Rhizobium-gits)
 
-<!-- 列数変更 (例: 2列) -->
-![Trophies](https://github.com/Rhizobium-gits/github-trophies/api/trophies?username=Rhizobium-gits&cols=2)
-
-<!-- 言語数変更 (例: 10個) -->
-![Languages](https://github.com/Rhizobium-gits/github-trophies/api/languages?username=Rhizobium-gits&limit=10)
-
+![Languages](https://github-trophies-rho.vercel.app/api/languages?username=Rhizobium-gits)
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Rhizobium-gits&show_icons=true&count_private=true&theme=graywhite" alt="GitHub stats" width="49%" />
