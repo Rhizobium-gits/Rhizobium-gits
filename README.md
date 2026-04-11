@@ -22,10 +22,7 @@
 
 **Stats**
 
-  <p>
-  <img src="https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits&theme=noir"/>
-  <img src="https://github-trophies-rho.vercel.app/api/partycat?username=Rhizobium-gits&cat=vibe" width="60"/>
-</p>
+  ![Stats](https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits&theme=noir&cat=vibe)
 
 ![solarized-light](https://github-trophies-rho.vercel.app/api/stats?username=Rhizobium-gits&theme=solarized-light)
 
