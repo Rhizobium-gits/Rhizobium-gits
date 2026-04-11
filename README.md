@@ -3,9 +3,6 @@
     <a href="http://x.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/Rhizobium_gits?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/Rhizobium_gits">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
-  </a>
 </p>
 **Bio:** Undergraduate at the Faculty of Environmental Information, [Keio University (SFC)](https://www.sfc.keio.ac.jp/). Research Student at the Intestinal Microbiota Group, [Institute for Advanced Biosciences (IAB), Keio University](https://www.iab.keio.ac.jp/). Technical Assistant at the Division of Biological Data Science, Department of Computational and Systems Biology, [Institute of Science Tokyo](https://www.isct.ac.jp/). Director at [ADvance Lab](https://adlab.lne.st). *Nature to Tech, Tech to Nature.*
 
