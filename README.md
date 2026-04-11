@@ -12,7 +12,7 @@
 <img src="https://github.com/Rhizobium-gits/seq2pipe/blob/master/seq2pipe.png" width="100"> <img src="https://raw.githubusercontent.com/Rhizobium-gits/Rhizobium-gits/main/seq2pipe.gif" width="75"> <img src="https://github.com/qiime-lab/.github/blob/main/qiimelab.png" width="100"> 
 
 **Awards/Fellowships**
-- Nakatani RIES (Research stay at Georgia Institute of Technology)
+- Nakatani RIES 2026 (Research stay at Georgia Institute of Technology)
 - Top 100 Downloaded Articles — Physics Top 8 of 2024 (*Scientific Reports*, Nature Portfolio)
 - Encouragement Award, The 64th Annual Meeting of the Japanese Society of Plant Physiologists (2023)
 - Excellence Award, 16th Annual Symposium, Kyoto University Unit of Synergetic Studies for Space (2022)
