@@ -21,5 +21,6 @@
 
 **Stats**
 
+[**github-stats**](https://github.com/Rhizobium-gits/github-stats(2026.4) - A GitHub stats card generator for your README ・ 32 themes, auto-updated via GitHub Actions, no external services required
 ![GitHub Stats](https://raw.githubusercontent.com/Rhizobium-gits/github-trophies/main/svg/stats-light.svg)
 
