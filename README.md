@@ -21,5 +21,4 @@
 **Contact**: [okay.bio.sato@gmail.com](mailto:okay.bio.sato@gmail.com) | [tsubatimescom.vercel.app](https://tsubatimescom.vercel.app) | [@Rhizobium_st](https://x.com/Rhizobium_st)
 
 **Stats**
-
-![GitHub Stats](https://x.gd/fk3by)
+![GitHub Stats](./stats.svg)
