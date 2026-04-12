@@ -6,6 +6,7 @@
 
 **Projects**:
   
+- [**github-stats**](https://github.com/Rhizobium-gits/github-stats)(2026.4) - A GitHub stats card generator for your README ・ 32 themes, auto-updated via GitHub Actions, no external services required
 - [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026.2-) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
 - [**qiime-lab**](https://github.com/qiime-lab)(2026.2-) — How to use Qiime2? We describe the latest Qiime2 methods for beginners.
 
@@ -20,8 +21,6 @@
 **Contact**: [okay.bio.sato@gmail.com](mailto:okay.bio.sato@gmail.com) | [tsubatimescom.vercel.app](https://tsubatimescom.vercel.app) | [@Rhizobium_st](https://x.com/Rhizobium_st)
 
 **Stats**
-
-[**github-stats**](https://github.com/Rhizobium-gits/github-stats)(2026.4) - A GitHub stats card generator for your README ・ 32 themes, auto-updated via GitHub Actions, no external services required
 
 ![GitHub Stats](https://raw.githubusercontent.com/Rhizobium-gits/github-trophies/main/svg/stats-light.svg)
 
