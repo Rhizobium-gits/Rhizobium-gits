@@ -22,4 +22,5 @@
 
 **Stats**
 
-![GitHub Stats](https://raw.githubusercontent.com/Rhizobium-gits/github-trophies/main/stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/ユーザー名/github-trophies/main/stats-light.svg)
+
