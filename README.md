@@ -22,5 +22,5 @@
 
 **Stats**
 
-![GitHub Stats](https://raw.githubusercontent.com/Rhizobium-gits/github-trophies/main/stats-vitesse-light.svg)
+![GitHub Stats](https://raw.githubusercontent.com/Rhizobium-gits/github-trophies/main/svg/stats-github-light.svg)
 
