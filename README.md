@@ -23,4 +23,3 @@
 **Stats**
 
 ![GitHub Stats](https://raw.githubusercontent.com/Rhizobium-gits/github-trophies/main/svg/stats-light.svg)
-
