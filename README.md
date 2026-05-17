@@ -6,7 +6,7 @@
 
 **Projects**:
 
-- [**github-stats**](https://github.com/Rhizobium-gits/EnMP-banana)(2026.5) - Generate vertical Instagram-Story-sized Spotify playlist thumbnails.
+- [**EnMP banana**](https://github.com/Rhizobium-gits/EnMP-banana)(2026.5) - EnMP banana = Enhance My Playlist banana. Generate vertical Instagram-Story-sized Spotify playlist thumbnails.
 - [**github-stats**](https://github.com/Rhizobium-gits/github-stats)(2026.4) - A GitHub stats card generator for your README ・ 32 themes, auto-updated via GitHub Actions, no external services required.
 - [**seq2pipe**](https://github.com/Rhizobium-gits/seq2pipe)(2026.2-) — _A local AI agent for fully automated QIIME2 microbiome analysis powered by Ollama._ Sequence data in, pipeline out — no cloud dependency.
 - [**qiime-lab**](https://github.com/qiime-lab)(2026.2-) — How to use Qiime2? We describe the latest Qiime2 methods for beginners.
