@@ -1,5 +1,4 @@
 ### Rhizobium-gits 🐈
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyturtle0852&label=Profile%20views&color=0e75b6&style=flat" alt="Rhizobium-gits" /> </p>
 **Bio:** Undergraduate at the Faculty of Environmental Information(B2), [Keio University (SFC)](https://www.sfc.keio.ac.jp/). Research Student at the Intestinal Microbiota Group, [Institute for Advanced Biosciences (IAB), Keio University](https://www.iab.keio.ac.jp/). Technical Assistant at the Division of Biological Data Science, Department of Computational and Systems Biology, [Institute of Science Tokyo](https://www.isct.ac.jp/). Director at [ADvance Lab](https://adlab.lne.st). *Nature to Tech, Tech to Nature.*
 
 **Awards/Fellowships**
